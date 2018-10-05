@@ -5,7 +5,7 @@ class Content extends Component {
     super()
 
      this.state = {
-      tiempo: new Date().toLocaleTimeString()
+      tiempo: new Date()
     
 
     
